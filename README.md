@@ -3,4 +3,6 @@
 ## Running Locally
 
 1. Clone the repo
-2. Run `docker run -p 80:4000 -v $(pwd):/site bretfisher/jekyll-serve`
+2. Run `docker-compose up`
+
+Changing anything in the `_config.yml` will require stopping and starting the container again.
