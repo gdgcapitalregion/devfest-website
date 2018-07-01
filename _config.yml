@@ -42,32 +42,22 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2018"
-eventDate: "September - November, 2018"
+eventDate: "Coming Soon in Fall 2018"
 typeoutTextValues: '"", "Season", "Capital Region"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "Past Events"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "November 12, 2016", link: "https://gdgcapitalregion.bitbucket.io/", text: "Talks, demos, codelabs and workshops in cloud, mobile, web, and IoT, machine learning and Go training." }
+ - {title: "October 28, 2017", link: "https://devfestcr2017.bitbucket.io/", text: "Talks, demos and workshops covering TensorFlow, Kubernetes, Pachyderm, ReactJS, Google Assistant, Go, and much more." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -173,9 +163,7 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/gdgcapregion", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ - {link: "https://twitter.com/intent/user?screen_name=gdgcapregion", icon: "twitter"}
 footerBlocks:
  -
   title: "Links"
@@ -197,7 +185,7 @@ blogCommentsEnabled: true
 discusShortName: "devfestua"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
