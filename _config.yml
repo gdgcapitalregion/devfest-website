@@ -36,22 +36,25 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
+c4pUrl: "https://www.papercall.io/gdgcrdf18"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
 navigationLinks:
 bottomNavigationLinks:
+ - {link: "https://www.papercall.io/gdgcrdf18", text: "Become a speaker"}
 rightNavigationButtons:
+ - {link: "https://www.papercall.io/gdgcrdf18", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2018"
-eventDate: "Coming Soon in Fall 2018"
+eventDate: "Coming Soon in October 2018"
 typeoutTextValues: '"", "Season", "Capital Region"'
 typeoutFallback: "Season"
 heroButtons:
+  - {link: "https://www.papercall.io/gdgcrdf18", text: "Become a speaker"}
 
 # About Block
 aboutTitle: "Past Events"
