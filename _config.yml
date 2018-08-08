@@ -50,7 +50,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2018"
-eventDate: "Coming Soon in October 2018"
+eventDate: "October 27, 2018 8:00 AM - 6:00 PM"
 typeoutTextValues: '"", "Season", "Capital Region"'
 typeoutFallback: "Season"
 heroButtons:
@@ -81,19 +81,19 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventLocationName: "University of Albany"
+eventLocationLink: "https://www.albany.edu/"
+eventStreetAddress: "1400 Washington Avenue"
+eventAddressLocality: "Albany"
+eventAddressLocalityRegion: "New York"
+eventPostalCode: "12222"
+eventAddressCountry: "United States"
+eventStartTime: "2018-10-27T8:00"
+eventDoorTime: "07:00"
+eventEndTime: "2018-10-27T6:00"
+eventPlaceCoordinates: "42.6859115, -73.8265279"
+mapCenterCoordinates: "42.6859115, -73.8265279"
+mapMobileCenterCoordinates: "42.6859115, -73.8265279"
 
 # Venue Block
 venueBlockTitle: "Venue"
