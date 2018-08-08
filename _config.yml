@@ -81,11 +81,11 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "University of Albany"
+eventLocationName: "University at Albany"
 eventLocationLink: "https://www.albany.edu/"
 eventStreetAddress: "1400 Washington Avenue"
 eventAddressLocality: "Albany"
-eventAddressLocalityRegion: "New York"
+eventAddressLocalityRegion: "NY"
 eventPostalCode: "12222"
 eventAddressCountry: "United States"
 eventStartTime: "2018-10-27T8:00"
@@ -94,6 +94,8 @@ eventEndTime: "2018-10-27T6:00"
 eventPlaceCoordinates: "42.6859115, -73.8265279"
 mapCenterCoordinates: "42.6859115, -73.8265279"
 mapMobileCenterCoordinates: "42.6859115, -73.8265279"
+mapImage: "/img/venue/ualbany.png"
+mapLink: "https://goo.gl/maps/XQWk7e4MC4K2"
 
 # Venue Block
 venueBlockTitle: "Venue"
