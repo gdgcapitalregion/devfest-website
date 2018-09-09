@@ -55,6 +55,7 @@ typeoutTextValues: '"", "Season", "Capital Region"'
 typeoutFallback: "Season"
 heroButtons:
   - {link: "https://www.papercall.io/gdgcrdf18", text: "Become a speaker"}
+  - {link: "#tickets", text: "Purchase tickets"}
 
 # About Block
 aboutTitle: "Past Events"
@@ -128,42 +129,35 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  name: "Standard"
+  price: "$39"
+  buyButtonLink: "https://www.eventbrite.com/e/capital-region-google-developer-group-devfest-2018-devfestcr18-tickets-49862324555#tickets"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
+  ticketContentList: ["fee not included"]
+  validFrom: "2018-10-05"
+  validThrough: "2018-10-26"
   disabled: true
  -
+  name: "Early Bird"
+  price: "$34"
+  featured: true
+  buyButtonLink: "https://www.eventbrite.com/e/capital-region-google-developer-group-devfest-2018-devfestcr18-tickets-49862324555#tickets"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["fee not included"]
+  validFrom: "2018-01-01"
+  validThrough: "2018-10-04"
+ -
   name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
+  price: "$10"
   ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://www.eventbrite.com/e/capital-region-google-developer-group-devfest-2018-devfestcr18-tickets-49862324555#tickets"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+  ticketContentList: ["fee not included"]
+  validFrom: "2018-01-01"
+  validThrough: "2018-10-26"
+  # soldOut: true
+  # soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
