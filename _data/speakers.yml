@@ -21,3 +21,14 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/KevinHoffman"}
     - {name: "github", link: "https://github.com/autodidaddict"}
+- 
+  id: 3
+  name: "Becca"
+  surname: "Kennedy"
+  company: "Agrilyst & Kennason"
+  title: "PhD Human Factors Psychologist & UX Researcher"
+  bio: "She lives in Albany where she runs the UX consulting company Kennason and works remotely for the ag tech startup Agrilyst. She is also a writer for UserZoom and a board member of AIGA Upstate New York."
+  thumbnailUrl: BeccaKennedy.png
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/becca_kennedy"}
