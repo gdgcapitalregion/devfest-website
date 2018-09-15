@@ -2,3 +2,9 @@
   group: "General sponsor"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com", imageUrl: "google.svg"}
+    - {name: "GDG", description: "GDG", link: "https://developers.google.com", imageUrl: "gdg.png"}
+-
+  group: "Local sponsor"
+  elements:
+    - {name: "UAlbany College of Emergency Preparedness, Homeland Security and Cybersecurity", description: "UAlbany College of Emergency Preparedness, Homeland Security and Cybersecurity", link: "https://www.albany.edu/cehc/", imageUrl: "ualbany-cehc.png"}
+    - {name: "Upstate Venture Connect", description: "Upstate Venture Connect", link: "https://uvc.org/", imageUrl: "uvc.png"}
