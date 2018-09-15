@@ -42,10 +42,10 @@ c4sponsorsUrl: "/assets/GDGCR_SponsorshipProspectusDevFest2018.pdf"
 
 # Navigation
 navigationLinks:
+ - {link: "/schedule", text: "Schedule"}
+ - {link: "/speakers", text: "Speakers"}
 bottomNavigationLinks:
- - {link: "https://www.papercall.io/gdgcrdf18", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://www.papercall.io/gdgcrdf18", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -77,7 +77,7 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersTitle: "Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
