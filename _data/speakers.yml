@@ -32,3 +32,39 @@
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/becca_kennedy"}
+- 
+  id: 4
+  name: "Mavreen"
+  surname: "Smiel"
+  company: "Namely"
+  title: "Software Engineer in Test"
+  bio: "Mavreen is currently a Software Engineer in Test at Namely. When she’s not slinging code, she’s writing stories."
+  thumbnailUrl: MavreenSmiel.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/_graphei"}
+- 
+  id: 5
+  name: "Amanda"
+  surname: "Kirk"
+  company: "RPI"
+  title: "Digital Game Hub Coordinator"
+  bio: "Amanda Kirk has spent 10 years in the games industry working on entertainment, educational and serious games for a variety of platforms including DS, 3DS, iOS, Android and Windows. She is an experienced developer creating interactive experiences in AR/VR and educational software. An active member of the community she developed the Teen Game Workshop, a program to teach game development to local teens, is a key organizer for the Games in Education Symposium and serves as Chair for Albany's IGDA chapter. She currently serves as the coordinator for RPI's Digital Game Hub."
+  thumbnailUrl: AmandaKirk.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/AmandaLKirk"}
+    - {name: "site", link: "http://www.amandalkirk.com"}
+- 
+  id: 6
+  name: "Blain"
+  surname: "Smith"
+  company: "Kinetic"
+  title: "Senior Software Engineer"
+  bio: "Blain has been writing software for over 20 years spanning multiple industries such as higher-ed, gaming, entertainment, and now currently in embedded wearables for safety. When he is not coding you can find him training in the gym for powerlifting and strongman competitions."
+  thumbnailUrl: BlainSmith.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/blainsmith"}
+    - {name: "github", link: "https://twitter.com/blainsmith"}
+    - {name: "site", link: "https://blainsmith.com"}
