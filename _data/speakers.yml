@@ -81,3 +81,15 @@
     - {name: "twitter", link: "https://twitter.com/temidjoy"}
     - {name: "github", link: "https://github.com/Temidtech"}
     - {name: "site", link: "https://diylaw.ng"}
+- 
+  id: 8
+  name: "Kirk"
+  surname: "Bater"
+  company: "Cofense, Inc."
+  title: "Production Engineer"
+  bio: "Kirk Bater is currently a Production Engineer with Cofense, Inc.  where he spends most of his time working on enabling developers through automation of infrastructure work.  When he's not writing code or writing about code, you can find him woodworking or training for his next Triathlon."
+  thumbnailUrl: KirkBater.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/kirkbater"}
+    - {name: "github", link: "https://github.com/iamkirkbater"}
