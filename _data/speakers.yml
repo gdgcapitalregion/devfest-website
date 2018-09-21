@@ -93,3 +93,15 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/kirkbater"}
     - {name: "github", link: "https://github.com/iamkirkbater"}
+- 
+  id: 9
+  name: "Austin"
+  surname: "Parker"
+  company: "LightStep"
+  title: "Open Source Software Engineer"
+  bio: "Austin Parker is an Open Source Software engineer who works with LightStep to maintain, improve, and evangelize the OpenTracing project. He believes in making better tools for developers, so they can build more resilient and observable systems at scale. Previously, Austin was a Software Architect at Apprenda, where he worked with distributed systems involving Kubernetes, .NET, and the cloud."
+  thumbnailUrl: AustinParker.png
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/austinlparker"}
+    - {name: "github", link: "https://github.com/austinlparker"} 
