@@ -105,3 +105,14 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/austinlparker"}
     - {name: "github", link: "https://github.com/austinlparker"} 
+- 
+  id: 10
+  name: "Jedidiah"
+  surname: "Stewart"
+  company: "Troy Web Consulting"
+  title: "Senior Consultant/Architecture"
+  bio: "An accomplished Software Developer who has been creating Object Oriented applications for more than a decade with extensive experience in the full life cycle of software (requirements definition, prototyping, proof of concept, design, interface implementation, testing and maintenance) in an enterprise environment."
+  thumbnailUrl: JedidiahStewart.png
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jedidiah-stewart-76008235/"}
