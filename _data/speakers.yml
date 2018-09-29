@@ -116,3 +116,14 @@
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/jedidiah-stewart-76008235/"}
+- 
+  id: 11
+  name: "Kenny"
+  surname: "Day"
+  company: "PUBG:Madglory"
+  title: "Software Engineer"
+  bio: "Kenny is a software engineer in Saratoga Springs building distributed web services for PUBG:Madglory, formerly known as Madglory. He has previously worked with other game studios such as Riot Games and Warner Brothers building and extending backend game services."
+  thumbnailUrl: KennyDay.png
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/dimxasnewfrozen"}
