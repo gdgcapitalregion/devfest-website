@@ -161,3 +161,15 @@
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/dchaddportwine"}
+- 
+  id: 15
+  name: "Faith"
+  surname: "Wallace"
+  company: "Code Girl"
+  title: "Front End Developer"
+  bio: "I am a Web Developer, Professor, Writer, Hogwarts Student, and Doctor Who Companion… Okay, so maybe I am not a student at Hogwarts… I am sure I’d be sorted into Ravenclaw! And, maybe I am not a Doctor Who companion… But wouldn’t time traveling in the TARDIS be amazing? My career started, not in magic, but in education. I taught middle school English before I went back to school full-time to earn a Ph.D. in Language and Literacy from Georgia State University, and worked as a Professor of Literacy at Kennesaw State University (GA). After years of teaching, I decided to leverage my background in language and literacy for a new career as a Front End Developer with an affinity for clean, classic web design with original and well-commented code. However, I have never truly left education, and I have applied what I know about education from years of study and practice to how people learn to code. I write a blog with the focus: A Professor’s Perspective on Learning to Code. I help new coders understand their unique learning process and their individual learning styles. I help coding instructors learn to differentiate their instruction to meet the needs of diverse learners. Further, I help coders understand WHY learning to code is complex, and how to chose the best resources to meet their needs."
+  thumbnailUrl: FaithWallace.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/fwallacephd"}
+    - {name: "site", link: "https://medium.com/@faithhfrankelwallace"}
