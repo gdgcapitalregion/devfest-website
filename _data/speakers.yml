@@ -127,3 +127,37 @@
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/dimxasnewfrozen"}
+- 
+  id: 12
+  name: "Wesley"
+  surname: "Rolnick"
+  company: "Transfinder"
+  title: "Scrum Master"
+  bio: "Wesley Rolnick is a Scrum Master at Transfinder where he helps teams achieve high performance through efficient software development practices.  When he’s not working with a Scrum team, he can be found in the woods training for his next ultra-marathon."
+  thumbnailUrl: WesleyRolnick.png
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/wesley-rolnick-0453368/"}
+    - {name: "github", link: "https://github.com/syncrisis"}
+- 
+  id: 13
+  name: "Nicholas"
+  surname: "Prusko"
+  company: "Transfinder"
+  title: "Software Architect"
+  bio: "Nicholas is currently Transfinder’s Software Architect where he designs efficient and scalable software. When he is not in the office, Nick is usually in the garage working on his many projects."
+  thumbnailUrl: NicholasPrusko.png
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nicholas-prusko-024ba174/"}
+- 
+  id: 14
+  name: "Chadd"
+  surname: "Portwine"
+  company: "Jahnel Group"
+  title: "Systems Administrator"
+  bio: "Chadd has represented and consulted businesses you know, including Microsoft, Sony, Disney, and more. He got his start in the software development and entertainment industry, releasing blockbuster video games, such as Guitar Hero, Lego Racers, and Spider-Man. He has applied his coding and teaching skills as an adjunct professor at Northwest University and as a content developer for Excelsior College. In the semiconductor industry at Globalfoundries, Chadd brought database technologies online and trained departments to use the systems. At Jahnel Group, Chadd provides operational support and systems administration. Chadd lives in Albany, NY with his amazing wife and children, and he enjoys good coffee and bad sci-fi."
+  thumbnailUrl: ChaddPortwine.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/dchaddportwine"}
