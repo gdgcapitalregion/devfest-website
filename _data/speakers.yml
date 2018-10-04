@@ -152,6 +152,17 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/nicholas-prusko-024ba174/"}
 - 
   id: 14
+  name: "Elizabeth"
+  surname: "Chauhan"
+  company: "Transfinder"
+  title: "Software Architect"
+  bio: "Liz Chauhan is Transfinder’s Release Manager and has over a decade of experience in many aspects of a technology company including; sales enablement, client services, and release management. In her current role, Liz coordinates all aspects of the release cycle for new and existing products, with an emphasis on fast deployments with the end user in mind. Outside of the software world, Liz enjoys running and is always training for a marathon, relay or both."
+  thumbnailUrl: ElizabethChauhan.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/elizabeth-chauhan-a265766/"}
+- 
+  id: 15
   name: "Chadd"
   surname: "Portwine"
   company: "Jahnel Group"
@@ -162,7 +173,7 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/dchaddportwine"}
 - 
-  id: 15
+  id: 16
   name: "Faith"
   surname: "Wallace"
   company: "Code Girl"
