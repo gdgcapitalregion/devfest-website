@@ -36,7 +36,7 @@ socialImageSrcTwitter: ""
 socialImageSrcFacebook: ""
 
 # Documents
-c4pUrl: "https://www.papercall.io/gdgcrdf18"
+c4pUrl: ""
 c4sponsorsUrl: "/assets/GDGCR_SponsorshipProspectusDevFest2018.pdf"
 
 
@@ -54,7 +54,6 @@ eventDate: "October 27, 2018 8:00 AM - 6:00 PM"
 typeoutTextValues: '"", "Season", "Capital Region"'
 typeoutFallback: "Season"
 heroButtons:
-  - {link: "https://www.papercall.io/gdgcrdf18", text: "Become a speaker"}
   - {link: "#tickets", text: "Purchase tickets"}
 
 # About Block

@@ -47,7 +47,7 @@
   id: 5
   name: "Amanda"
   surname: "Kirk"
-  company: "RPI"
+  company: "RPI Digital Game Hub"
   title: "Digital Game Hub Coordinator"
   bio: "Amanda Kirk has spent 10 years in the games industry working on entertainment, educational and serious games for a variety of platforms including DS, 3DS, iOS, Android and Windows. She is an experienced developer creating interactive experiences in AR/VR and educational software. An active member of the community she developed the Teen Game Workshop, a program to teach game development to local teens, is a key organizer for the Games in Education Symposium and serves as Chair for Albany's IGDA chapter. She currently serves as the coordinator for RPI's Digital Game Hub."
   thumbnailUrl: AmandaKirk.jpg
@@ -155,7 +155,7 @@
   name: "Elizabeth"
   surname: "Chauhan"
   company: "Transfinder"
-  title: "Software Architect"
+  title: "Release Manager"
   bio: "Liz Chauhan is Transfinder’s Release Manager and has over a decade of experience in many aspects of a technology company including; sales enablement, client services, and release management. In her current role, Liz coordinates all aspects of the release cycle for new and existing products, with an emphasis on fast deployments with the end user in mind. Outside of the software world, Liz enjoys running and is always training for a marathon, relay or both."
   thumbnailUrl: ElizabethChauhan.jpg
   rockstar: true
@@ -184,3 +184,51 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/fwallacephd"}
     - {name: "site", link: "https://medium.com/@faithhfrankelwallace"}
+- 
+  id: 17
+  name: "Sam"
+  surname: "Bonfante"
+  company: ""
+  title: ""
+  bio: "Sam Bonfante is a developer who works beyond the Full Stack. From embedded systems and integration through the server to frontend web SPAs, he eats C for breakfast, JavaScript for lunch, and skips dinner (intermittent fasting changed his life!)"
+  thumbnailUrl: SamBonfante.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "twitter", link: "https://twitter.com/fwallacephd"}
+  #   - {name: "site", link: "https://medium.com/@faithhfrankelwallace"}
+- 
+  id: 18
+  name: "Lucas"
+  surname: "Holmquist"
+  company: "RedHat"
+  title: "Senior Software Engineer"
+  bio: "Lucas is a Sr. Software Engineer at Red Hat. Formerly of the Mobile team, where he focused on the mobile web and front-end development, he is now mostly focused on the Node.js developer experience on Openshift. While I am not a Node expert, I do pretend to be one at work."
+  thumbnailUrl: LucasHolmquist.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/sienaluke"}
+    - {name: "site", link: "https://blog.lholmquist.org/"}
+- 
+  id: 19
+  name: "Jason"
+  surname: "Kuruzovich"
+  company: "RPI Severino Center"
+  title: "Director of the Severino Center for Technological Entrepreneurship"
+  bio: "Jason is an academic entrepreneur that works on problems in which analytics can have a meaningful impact on the world. Jason teaches the Business Analytics Capstone course, where over the past 3 years he has worked with students on over 20 company projects as part of the RPI MS Business Analytics program (ranked 3rd in the world by TFE Times). Through his role as Director of the Severino Center for Technological Entrepreneurship, Jason manages a wide variety of programs to encourage entrepreneurship through contexts, communities, and mentorship opportunities. Jason has been directly involved in the launch of numerous programs including Foundry-RPI, Startup Tech Valley meetup, NSF Funded NYS Capital Region I-Corp Site Program (PI for grant). He has been recognized as one of the Albany Business Review’s 40 under 40 in the Capital Region and received the Center for Economic Growth (CEG) Technology Innovation Award. He also received the 2016 Upstate Venture Connect Campus Connector Award."
+  thumbnailUrl: JasonKuruzovich.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/AiCarme"}
+    - {name: "site", link: "https://carme.ai/"}
+- 
+  id: 20
+  name: "Andy"
+  surname: "Haskell"
+  company: "Diffeo"
+  title: "Web Software Engineer"
+  bio: "I’m a web software engineer at Diffeo, a startup in Boston, who mainly writes Go on the job and am also making my way into frontend JavaScript. I previously worked as a computational biology software engineer at MIT, and I am the resident sloth enthusiast at wherever I work. I am also an organizer at Boston Golang, Boston’s meetup group for the Go programming language. I am always way into learning new technology, and organization does not come naturally to me, which is how I came to build my note taking staying for staying productive on the job and in side projects across different programming languages."
+  thumbnailUrl: AndyHaskell.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/AndyHaskell2013"}
+    - {name: "site", link: "https://medium.com/@AndyHaskell2013"}

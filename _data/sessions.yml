@@ -1,24 +1,128 @@
 -
-  id: 100
-  title: "Registration"
+  id: 1
+  title: "Registration & Networking"
   description: "Come sign in, grab a coffee, and network with fellow technologists before the talks kick off."
   service: true
 -
-  id: 101
-  title: "Coffee Break"
+  id: 2
+  title: "Opening Remarks"
+  description: "Welcome to the 3rd Capital Region DevFest!"
   service: true
-  description: "The best time to talk with speakers and attendees."
 -
-  id: 102
+  id: 3
   title: "Lunch Break"
+  description: "Head over to the University at Albany cafeteria or venture out to a local restaurant."
   service: true
 -
-  id: 002
-  title: "Morning Talks"
-  description: "3-4 speakers will present."
+  id: 4
+  title: "Closing Remarks & Networking"
+  description: "We say goodbye to another great DevFest year and take some more time to network more and chat with attendees and sponsors."
+  service: true
+-
+  id: 931
+  speakers: [3]
+  title: "Numbers talk but stories explain: Why qualitative data matters"
+  description: "Sometimes it’s easy to focus on quantitative data because it’s so easy to collect and analyze. But to build truly human-centered products, quantitative data is not enough. This talk will give an overview of some technology missteps that were consequences of inadequate human research. It will also cover some research methods that can fold into the development process. Attendees will learn how to view the development process from a Psychologist’s point of view and will learn some underlying truths about what it means to create good user experiences."
   subtype: presentation
 -
-  id: 003
-  title: "Afternoon Talks"
-  description: "3-4 speakers will present."
+  id: 932
+  speakers: [12, 13]
+  title: "Intro to Kubernetes and Serverless: Two Sides of the Deployment Coin"
+  description: "Kubernetes and Serverless are two growing technologies that have greatly simplified software deployments. Using an example project, this interactive session will walk through how to deploy the same project using Kubernetes and Google’s Serverless. To show that these options do not have to be exclusive, the project will also be deployed using Google Cloud’s Serverless Kubernetes."
+  subtype: presentation
+-
+  id: 933
+  speakers: [10]
+  title: "Introduction to Flutter"
+  description: "Talk about ups and downs of Flutter development."
+  subtype: presentation
+-
+  id: 1031
+  speakers: [17]
+  title: "Node Native Modules, Or, How I Learned To Stop Worrying And Love V8"
+  description: "This talk will go into the details of how to begin building a Node Native Module, why NNMs are useful, and how the interactions between node native modules differ from normal node modules. We will also discuss the magical interactions of asynchronous returns via Promises and the power of libUV to enable power intensive workflows to work without changes to underlying libraries. Callbacks will be mentioned (and summarily dismissed), type coersion will be agonized over, and ‘the good old days’ will be harkened back to."
+  subtype: presentation
+-
+  id: 1032
+  speakers: [7]
+  title: "The Kotlin RoadMap"
+  description: "There are a couple of developers that are brand new to Kotlin, they might have heard that you can convert any java file to kotlin on a single right click. That’s good to know! But relax, what are all these signs in the code? they look unfamiliar. Of course, the code compiles perfectly, but here is a quick question, how do you write a clean and less code following best practices and at the same time compiles properly? How do you get closer to making your code perfect? In this talk I am going to expound on how you can get started in Kotlin by converting existing codebase and adding new code, how to make that code more Kotlin friendly, including a couple of good practices and some few things to avoid. Hopefully, you will leave this talk being able to get started with Kotlin."
+  subtype: presentation
+-
+  id: 1033
+  speakers: [1]
+  title: "Media Wellness: Mindfulness in Your Digital World"
+  description: "Media is pervasive. Screens are everywhere. Multitasking is the norm. But beneath the hype of productivity and efficiency are critical consequences that may be doing more harm than good for us all. This interactive talk will explore the biological, psychological, and social consequences of constant connectivity, and ask audience members to consider a world in which everyone mindfully unplugged for just 10 minutes a day. Might we actually be more productive? More creative? Kinder? The stakes are high, and the speaker is determined to win over even the most conservative naysayer with evidence-based support - and irresistible pictures of puppies - showing why mindfulness is a discipline worth investing in."
+  subtype: presentation
+-
+  id: 1131
+  speakers: [16]
+  title: "5 Brain Science Hacks to Successfully Learn Programming"
+  description: "There is a life cycle all of its own when learning something new. The natural ups and downs on the path to progress can cause learners to become stuck, encounter mental blocks, or even give up altogether. As a former college professor in the field of education, I can say with certainty, a little knowledge about educational psychology (lovingly referred to as brain science) goes a long way when you want to be a successful student of code.Educational psychology as a field studies how people learn new concepts efficiently and effectively and applies that to teaching methods and study strategies for promoting and achieving mastery. In this presentation, I cover 5 principles of educational psychology, connect that principle with common learning situations in learning code, and then provide suggested resources for success. The goal of the presentation is for you take charge of your learning and persevere. If you think this presentations is just for beginners, you would be wrong. Programmers are constantly learning new languages, libraries, and frameworks. Use best practices no matter what you are learning and you will save time and money, but also frustration."
+  subtype: presentation
+-
+  id: 1132
+  speakers: [6]
+  title: "Live Coding a Key/Value Database"
+  description: "The Go standard library is a very power set of APIs that make building network services a breeze. I am going to show you how easy it is to build a trivial key/value database like Redis to perform GET, SET, and DEL commands. The database will let you connect to it over a persistent TCP socket and HTTP REST endpoints. I will start from a scratch with no code and slowly build up the final version in front of you so you can not only see how it is done, but also see my thought process and ask questions along the way. You will see uses of networking libraries, goroutines, mutexes, maps, slices, bytes, structs, and pointers all in around 150 lines of code and using no external dependencies."
+  subtype: presentation
+-
+  id: 1133
+  speakers: [15]
+  title: "Light your HR Spreadsheets on Fire - Building a Human Resources Information System with Firebase"
+  description: "At some point in a company’s development, the employee information becomes too complex and sensitive to simply be maintained in spreadsheets. Let’s hear how one software company used Firebase to build a self-serve web app that improved onboarding and secured personal data."
+  subtype: presentation
+-
+  id: 231
+  speakers: [18]
+  title: "Modern Web Applications on OpenShift"
+  description: "Modern Web Applications like React, Angular and Ember have great workflows for local development. But once you are done with local development and want to deploy your application to a Kubernetes based platform, things aren’t so clear. This talk will take a look at how to deploy your Modern Web Apps to a kubernetes based platform like Openshift and how they are differnt from “Pure” Node.js Applications. We will see how to quickly deploy your application in under 3 commands. We will also see how to deploy with a more “production ready” mindset. We will see how we can make Openshift our “local development” environment."
+  subtype: presentation
+-
+  id: 232
+  speakers: [12, 14]
+  title: "The Summit and Beyond: The Last Sprint & Release Management"
+  description: "Working in an Agile environment requires all team members to be ready for live deployment. What is “done, done?” When is a product ready to be called “Production” or available for “General Release?” Do all products require the same process to be followed? While the exact items required will vary across companies, the need to have an understood process for deploying code beyond the development environment does not. Getting your code to the end user – internal or external, will require coordination that will overlap the completion of development and end user initial use. Successful release management can be taken on by one individual or spread across multiple team members. This talk will discuss the options available for managing what constitutes “done, done” how your team and company can agree on release ready code, and communications for internal stakeholders and external consumers."
+  subtype: presentation
+-
+  id: 233
+  speakers: [8]
+  title: "Terraform: Immutable Infrastructure"
+  description: "In this talk I will be giving a high level overview of Hashicorp’s Terraform, a cloud agnostic infrastructure management application. We will first go through a high level overview of immutable infrastructure concepts, and then how you can utilize this to create your own immutable infrastructure."
+  subtype: presentation
+-
+  id: 331
+  speakers: [9]
+  title: "Modern Web Applications on OpenShift"
+  description: "Microservice architectures require new tools and processes to observe the behavior of distributed systems. As applications begin to span hundreds of hosts, containers, and RPCs, we need a more effective method for observing the behavior of our systems both to diagnose performance issues as well as troubleshoot errors and failures that occur during runtime. Distributed Tracing is a mechanism by which applications can be instrumented for observability by emitting information at runtime that can be collected and reassembled into ‘traces’ that allow us to view the lifecycle of a request moving through each component. This talk will introduce the audience to OpenTracing, an open standard that allows developers to instrument their applications and frameworks in order to gain insights into the operation of the application. In addition, we will instrument and demonstrate how to use a tracer to view the behavior of an application in real time."
+  subtype: presentation
+-
+  id: 332
+  speakers: [4]
+  title: "Beyond Quality: Moving to TestOps"
+  description: "Are you tired of hearing “Run it again,” or “That’s flakey”? Do you have comments that say “Thar Be Dragons Here”? If so, stop by and discover ways to improve your testing. Because your users don’t care if it works on your machine. We all know we should be testing, but the reality is testing is often an afterthought for many startups. Quite often, enormous automation frameworks get built, only to catch a handful of bugs before degrading into a pile of tech debt everyone ignores. With so many engineering teams embracing DevOps, many still struggle with testing."
+  subtype: presentation
+-
+  id: 333
+  speakers: [19]
+  title: "Announcing Carme.ai: A Jupyter-Centric Data Science Framework"
+  description: "After 6 months as a project at the Rensselaer Center for Open Source Software (RCOS), we are excited to demonstrate some of the initial capabilities of Carme to the GDC community. In this hands-on demonstration, we will show how you can (a) utilize Carme to scaffold a project, (b) incorporate containers in your data science workflow, (c) launch cloud infrastructure for scaling data science (via GPU/Kubernetes), and (d) share your work via and easy to use package management system."
+  subtype: presentation
+-
+  id: 431
+  speakers: [5]
+  title: "Open Source Game Development"
+  description: "Game development is a great avenue to explore and I’d like to share my experience designing games and resources for participants to use to build their own projects. Additionally I will touch on game jams and other local events that participants can join to network with other game devs."
+  subtype: presentation
+-
+  id: 432
+  speakers: [20]
+  title: "Productive on Paper: Building a notetaking style for your software engineer worflow"
+  description: "With all the things you need to keep track of in a software engineering job, like design decisions to make, code to review, and both known and unverified bugs to fix, it’s important to have a system to keep track of everything. And while there are many productivity apps out there, building an engineer notetaking style fit for your thought process can be the crown jewel of that system. In this talk, I will show you how to build an ergonomic technique for taking notes your way that lets you keep track of your work and capture your ideas and concerns, all without being dramatically different from how you might have taken notes in school. This has many applications on an engineering job, both individually, such as picking up a new technique or leaving notes for yourself on parts of the codebase you rarely visit, and on a team, such as having more context for discussing possible bugs or thoughts you want to share at a planning meeting on the pros and cons of different design decisions."
+  subtype: presentation
+-
+  id: 433
+  speakers: [11]
+  title: "Tooling and Troubleshooting Techniques for Distributed Systems"
+  description: "Managing distributed systems is hard enough. Container orchestration has made this much easier. Once the service is live, it’s challenging troubleshooting problems in the service or cluster. This presentation covers an instance where we used modern tooling to track random high p90 response times."
   subtype: presentation
