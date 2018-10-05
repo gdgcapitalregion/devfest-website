@@ -87,8 +87,8 @@
 -
   id: 233
   speakers: [8]
-  title: "Terraform: Immutable Infrastructure"
-  description: "In this talk I will be giving a high level overview of Hashicorp’s Terraform, a cloud agnostic infrastructure management application. We will first go through a high level overview of immutable infrastructure concepts, and then how you can utilize this to create your own immutable infrastructure."
+  title: "SSH is a Bug: Immutable Infrastructure 101"
+  description: "This talk is going to highlight the basics of what Immutable Infrastructure means, as well as a bit of a comparison to other tools (Ansible, Chef, Puppet, etc) people think of when talking about infrastructure. I also plan on covering the difference between Pets vs Cattle arguments when it comes to servers, and how you can utilize a full stack of Images (or AWS AMIs), Docker Containers, and Terraform to create a completely immutable infrastructure from the metal to the application layer."
   subtype: presentation
 -
   id: 331
@@ -117,7 +117,7 @@
 -
   id: 432
   speakers: [20]
-  title: "Productive on Paper: Building a notetaking style for your software engineer worflow"
+  title: "Productive on Paper: Building a Notetaking Style for Your Software Engineer Workflow"
   description: "With all the things you need to keep track of in a software engineering job, like design decisions to make, code to review, and both known and unverified bugs to fix, it’s important to have a system to keep track of everything. And while there are many productivity apps out there, building an engineer notetaking style fit for your thought process can be the crown jewel of that system. In this talk, I will show you how to build an ergonomic technique for taking notes your way that lets you keep track of your work and capture your ideas and concerns, all without being dramatically different from how you might have taken notes in school. This has many applications on an engineering job, both individually, such as picking up a new technique or leaving notes for yourself on parts of the codebase you rarely visit, and on a team, such as having more context for discussing possible bugs or thoughts you want to share at a planning meeting on the pros and cons of different design decisions."
   subtype: presentation
 -
