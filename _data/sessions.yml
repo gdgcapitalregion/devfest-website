@@ -45,8 +45,8 @@
 -
   id: 1032
   speakers: [7]
-  title: "The Kotlin RoadMap"
-  description: "There are a couple of developers that are brand new to Kotlin, they might have heard that you can convert any java file to kotlin on a single right click. That’s good to know! But relax, what are all these signs in the code? they look unfamiliar. Of course, the code compiles perfectly, but here is a quick question, how do you write a clean and less code following best practices and at the same time compiles properly? How do you get closer to making your code perfect? In this talk I am going to expound on how you can get started in Kotlin by converting existing codebase and adding new code, how to make that code more Kotlin friendly, including a couple of good practices and some few things to avoid. Hopefully, you will leave this talk being able to get started with Kotlin."
+  title: "Accelerate development and Eliminate Boilerplate code with Android Jetpack"
+  description: "The last couple of years we have seen a plethora of new features and patterns for Android developers. This year, Google announced Android Jetpack, a set of components, tools, and guidance designed to accelerate app development. But how do developers know when to use existing APIs and features vs. new ones? This talk will help developers understand how they all work together and learn what they should use to build solid, modern Android applications. At the end of this session, developers will learn how to use the 4 major components of Android Jetpack (Foundation, Architecture, Behaviour, and UI) to accelerate development, eliminate boilerplate code, and build high quality, robust apps."
   subtype: presentation
 -
   id: 1033
