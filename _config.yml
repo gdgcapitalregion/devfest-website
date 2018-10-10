@@ -128,23 +128,24 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Standard"
-  price: "$39"
-  buyButtonLink: "https://www.eventbrite.com/e/capital-region-google-developer-group-devfest-2018-devfestcr18-tickets-49862324555#tickets"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["fee not included"]
-  validFrom: "2018-10-05"
-  validThrough: "2018-10-26"
-  disabled: true
- -
   name: "Early Bird"
   price: "$34"
-  featured: true
   buyButtonLink: "https://www.eventbrite.com/e/capital-region-google-developer-group-devfest-2018-devfestcr18-tickets-49862324555#tickets"
   buyButtonText: "Buy Now"
   ticketContentList: ["fee not included"]
   validFrom: "2018-01-01"
   validThrough: "2018-10-04"
+  soldOut: true
+  soldOutText: "Sold Out"
+ -
+  name: "Standard"
+  price: "$39"
+  featured: true
+  buyButtonLink: "https://www.eventbrite.com/e/capital-region-google-developer-group-devfest-2018-devfestcr18-tickets-49862324555#tickets"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["fee not included"]
+  validFrom: "2018-10-05"
+  validThrough: "2018-10-26"
  -
   name: "Student"
   price: "$10"
