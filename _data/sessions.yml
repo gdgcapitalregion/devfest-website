@@ -44,9 +44,9 @@
   subtype: presentation
 -
   id: 1032
-  speakers: [7]
-  title: "Accelerate development and Eliminate Boilerplate code with Android Jetpack"
-  description: "The last couple of years we have seen a plethora of new features and patterns for Android developers. This year, Google announced Android Jetpack, a set of components, tools, and guidance designed to accelerate app development. But how do developers know when to use existing APIs and features vs. new ones? This talk will help developers understand how they all work together and learn what they should use to build solid, modern Android applications. At the end of this session, developers will learn how to use the 4 major components of Android Jetpack (Foundation, Architecture, Behaviour, and UI) to accelerate development, eliminate boilerplate code, and build high quality, robust apps."
+  speakers: [9]
+  title: "Modern Web Applications on OpenShift"
+  description: "Microservice architectures require new tools and processes to observe the behavior of distributed systems. As applications begin to span hundreds of hosts, containers, and RPCs, we need a more effective method for observing the behavior of our systems both to diagnose performance issues as well as troubleshoot errors and failures that occur during runtime. Distributed Tracing is a mechanism by which applications can be instrumented for observability by emitting information at runtime that can be collected and reassembled into ‘traces’ that allow us to view the lifecycle of a request moving through each component. This talk will introduce the audience to OpenTracing, an open standard that allows developers to instrument their applications and frameworks in order to gain insights into the operation of the application. In addition, we will instrument and demonstrate how to use a tracer to view the behavior of an application in real time."
   subtype: presentation
 -
   id: 1033
@@ -92,9 +92,9 @@
   subtype: presentation
 -
   id: 331
-  speakers: [9]
-  title: "Modern Web Applications on OpenShift"
-  description: "Microservice architectures require new tools and processes to observe the behavior of distributed systems. As applications begin to span hundreds of hosts, containers, and RPCs, we need a more effective method for observing the behavior of our systems both to diagnose performance issues as well as troubleshoot errors and failures that occur during runtime. Distributed Tracing is a mechanism by which applications can be instrumented for observability by emitting information at runtime that can be collected and reassembled into ‘traces’ that allow us to view the lifecycle of a request moving through each component. This talk will introduce the audience to OpenTracing, an open standard that allows developers to instrument their applications and frameworks in order to gain insights into the operation of the application. In addition, we will instrument and demonstrate how to use a tracer to view the behavior of an application in real time."
+  speakers: [2]
+  title: "gRPC with Rust, Go and ..."
+  description: "TBD"
   subtype: presentation
 -
   id: 332

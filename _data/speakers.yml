@@ -69,19 +69,6 @@
     - {name: "github", link: "https://twitter.com/blainsmith"}
     - {name: "site", link: "https://blainsmith.com"}
 - 
-  id: 7
-  name: "Temidayo "
-  surname: "Adefioye"
-  company: "DIYlaw"
-  title: "Google Certified Associate Android Developer"
-  bio: "<p>Temidayo is a Google Certified Associate Android Developer and an open source advocate with a keen interest in mobile app development, web applications and data science. He is currently a Community Ambassador at Andela Learning Community with Google.</p><p>He maintains diylaw.ng and contributes to many more open source projects. In 2014 he had the opportunity to represent his country and Africa as a whole at Microsoft Headquarters for a software contest. In 2015, He was invited by Microsoft to be a Judge at break into code challenge for students across the world.</p><p>Temidayo currently enjoys working full-time for DIYLaw Technologies, the makers of diylaw.ng. He started writing software for fun and friends in 2011 after his mum bought him his first computer, an Hp 620 laptop, and he's been delivering commercial software since 2015.</p>"
-  thumbnailUrl: TemidayoAdefioye.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/temidjoy"}
-    - {name: "github", link: "https://github.com/Temidtech"}
-    - {name: "site", link: "https://diylaw.ng"}
-- 
   id: 8
   name: "Kirk"
   surname: "Bater"
