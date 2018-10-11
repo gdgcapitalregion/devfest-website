@@ -93,8 +93,8 @@
 -
   id: 331
   speakers: [2]
-  title: "gRPC with Rust, Go and ..."
-  description: "TBD"
+  title: "gRPC - A Three Language Tour"
+  description: "This talk will cover how we can define structured messages using Protocol Buffers to serialize messages between three different languages and set up communication between them with gRPC."
   subtype: presentation
 -
   id: 332
