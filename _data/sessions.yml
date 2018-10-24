@@ -19,6 +19,11 @@
   description: "We say goodbye to another great DevFest year and take some more time to network more and chat with attendees and sponsors."
   service: true
 -
+  id: 5
+  title: "Raffle Prizes Giveaway"
+  description: "We have Google Homes, Google Home Minis, Google Pixel Buds, Chromecasts, and much more to give away! Don't miss out!"
+  service: true
+-
   id: 931
   speakers: [3]
   title: "Numbers talk but stories explain: Why qualitative data matters"

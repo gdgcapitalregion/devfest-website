@@ -32,7 +32,12 @@
     	sessionIds: [1131, 1132, 1133]
     }
     - {
-      startTime: "12:30",
+      startTime: "12:20",
+      endTime: "12:50",
+      sessionIds: [5]
+    }
+    - {
+      startTime: "12:50",
       endTime: "1:50",
       sessionIds: [3]
     }
