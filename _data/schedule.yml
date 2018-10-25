@@ -2,9 +2,9 @@
   date: "2018-10-27"
   dateReadable: "October 27"
   tracks: 
-    - {title: "Talks 1", color: "#90be4e"}
-    - {title: "Talks 2", color: "#03a9f4"}
-    - {title: "Talks 3", color: "#e91e63"}
+    - {title: "Talks 1 - Main Area (Downstairs)", color: "#90be4e"}
+    - {title: "Talks 2 - Boardroom (Upstairs)", color: "#03a9f4"}
+    - {title: "Talks 3 - The Bean (Downstairs)", color: "#e91e63"}
   timeslots:
     - {
       startTime: "8:00",

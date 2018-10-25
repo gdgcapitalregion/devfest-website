@@ -1,11 +1,11 @@
 -
   id: 1
-  title: "Registration & Networking"
+  title: "Registration & Networking in Main Area"
   description: "Come sign in, grab a coffee, and network with fellow technologists before the talks kick off."
   service: true
 -
   id: 2
-  title: "Opening Remarks"
+  title: "Opening Remarks in Main Area"
   description: "Welcome to the 3rd Capital Region DevFest!"
   service: true
 -
@@ -15,12 +15,12 @@
   service: true
 -
   id: 4
-  title: "Closing Remarks & Networking"
+  title: "Closing Remarks & Networking in Main Area"
   description: "We say goodbye to another great DevFest year and take some more time to network more and chat with attendees and sponsors."
   service: true
 -
   id: 5
-  title: "Raffle Prizes Giveaway"
+  title: "Raffle Prizes Giveaway in Main Area"
   description: "We have Google Homes, Google Home Minis, Google Pixel Buds, Chromecasts, and much more to give away! Don't miss out!"
   service: true
 -
