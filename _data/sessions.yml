@@ -24,6 +24,10 @@
   description: "We have Google Homes, Google Home Minis, Google Pixel Buds, Chromecasts, and much more to give away! Don't miss out!"
   service: true
 -
+  id: 6
+  title: "No Speaker"
+  service: true
+-
   id: 931
   speakers: [3]
   title: "Numbers talk but stories explain: Why qualitative data matters"
